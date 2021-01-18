@@ -14,11 +14,11 @@ After we can filter the data from table by only the date time, we have added mor
 
 |Filtered by date "1/4/2010"(and "ca")  |
 |          :----------:                 |
-|![](Weekly_Assignment/1.PNG)           |
+|![](Weekly_Assignment/3.PNG)           |
 
 |Filtered by shape "light"("ca" and "1/4/2010")|
 |          :----------:                 |
-|![](Weekly_Assignment/1.PNG)           |
+|![](Weekly_Assignment/4.PNG)           |
 
 
 
