@@ -24,4 +24,5 @@ End users can easily use this filter feature on our website. I will walk you thr
 
 ## Summary
 When users entering the filtering condition, there is possible for them to enter a typo. In this case, our system would not be able to handl that. If "cc" is entered in state filter instead of "ca", there is no mathcing results in the table and nothing would show up. We could adjust our code to accept the ambiguous input from the users.
+
 For further development, we could add two more features on our wesite. The first one would be saving the filtered condition entered before. If the users entered "ca" for the state, after he removed "ca" from the fitler, "ca" would show up as one option if the user reclicks on thestate fitler so that the users do not need to re-enter the same information they entered before. Like you do not need to re-enter your address in Amazon for your orders. The second feature I would like to add is the option to export filtered data as words or PDF. After the users entered the filter conditions, they can easily download or export the result by one click, they could use it for future reference.
